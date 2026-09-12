@@ -57,25 +57,30 @@ Audio samples and sound library demos are available at [https://currenari.com](h
 
 ---
 
-### ReaPack Installation
+### Installation
 
-1. Open REAPER.
-2. Open **Extensions** -> **ReaPack** -> **Import repositories...**
-3. Paste the following URL:
+#### Method 1: Direct Download (Standard)
+1. Download the `acoustic_resonator` file from this repository.
+2. In REAPER, click **Options** -> **Show REAPER resource path in explorer/finder**.
+3. Open the **`Effects`** folder.
+4. Drop `acoustic_resonator` directly into `Effects` (or create a `Currenari` subfolder).
+5. In REAPER, open the FX Browser (press `Shift + F` or `Insert FX`), press **`F5`** to refresh/scan, and search for `Acoustic Resonator (CURS)`.
+
+#### Method 2: ReaPack (Optional for ReaPack Users)
+If you have the ReaPack extension installed in REAPER:
+1. In REAPER, open **Extensions** -> **ReaPack** -> **Manage repositories...**
+2. Click **Import/export** -> **Import repositories...** and paste:
    `https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/index.xml`
-4. Click **OK**, then install via **Extensions** -> **ReaPack** -> **Browse packages**.
+3. Click **OK**, then browse and install via **Extensions** -> **ReaPack** -> **Browse packages**.
 
 ---
 
-### Manual Installation
+### License & Terms of Use
 
-1. In REAPER, navigate to **Options** -> **Show REAPER resource path in explorer/finder**.
-2. Open the `Effects` directory.
-3. Copy `acoustic_resonator` into the `Effects` directory (or a `Currenari` subfolder).
-4. In REAPER, open the FX browser, press `F5` to rescan, and search for `Acoustic Resonator (CURS)`.
+**Free for Private and Commercial Use.**
 
----
-
-### License
+- **Music & Audio Production:** 100% free and royalty-free for use in any personal, commercial, film, game, streaming, broadcast, or sound design projects.
+- **Usage Rights:** No license fees, no subscriptions, and no royalties required.
+- **Redistribution:** You may not resell or redistribute the plugin source files as a standalone commercial product without explicit written permission from Currenari Sounds.
 
 (C) 2026 Currenari Sounds (https://currenari.com). All rights reserved.
