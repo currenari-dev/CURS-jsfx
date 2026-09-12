@@ -4,7 +4,7 @@
 **Website:** https://currenari.com  
 **Supported Sampling Rates:** 44.1 kHz, 48.0 kHz, 88.2 kHz, 96.0 kHz, 176.4 kHz, 192.0 kHz (Linux, macOS, Windows)
 
-![Acoustic Resonator](screenshot.jpg)
+![Acoustic Resonator](screenshot.png)
 
 ---
 
