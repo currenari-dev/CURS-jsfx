@@ -12,7 +12,7 @@
 
 **Version:** 2.9.4  
 **Category:** Resonators & Synthesizers  
-**File:** acoustic_resonator
+**File:** currenari_acoustic_resonator.jsfx
 
 Acoustic Resonator is an 8-mode acoustic resonator and synthesizer designed for sound design and music production. It transforms input audio or internal synthesis into resonant acoustic bodies with natural damping, diffusion, and low-end reinforcement.
 
@@ -60,10 +60,10 @@ Audio samples and sound library demos are available at [https://currenari.com](h
 ### Installation
 
 #### Method 1: Direct Download (Standard)
-1. Download the `acoustic_resonator` file from this repository.
+1. Download the [`currenari_acoustic_resonator.jsfx`](currenari_acoustic_resonator.jsfx) file from this repository.
 2. In REAPER, click **Options** -> **Show REAPER resource path in explorer/finder**.
 3. Open the **`Effects`** folder.
-4. Drop `acoustic_resonator` directly into `Effects` (or create a `Currenari` subfolder).
+4. Drop `currenari_acoustic_resonator.jsfx` directly into `Effects` (or into an `Effects/Synthesizers` subfolder).
 5. In REAPER, open the FX Browser (press `Shift + F` or `Insert FX`), press **`F5`** to refresh/scan, and search for `Acoustic Resonator (CURS)`.
 
 #### Method 2: ReaPack (Optional for ReaPack Users)

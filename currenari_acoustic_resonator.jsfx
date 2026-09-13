@@ -19,7 +19,7 @@ desc: Acoustic Resonator (CURS)
 //   mallet strike and bowed friction synthesis engine, 16-tap Velvet Cloud diffuser,
 //   sub foundation, True Peak -3.0 dBFS ceiling, and real-time Chladni visualizer.
 // @provides
-//   [effect] acoustic_resonator
+//   [effect] currenari_acoustic_resonator.jsfx
 
 in_pin:Left Input (Source Audio)
 in_pin:Right Input (Source Audio)

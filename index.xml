@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="CURS-jsfx" commit="main">
   <category name="Resonators">
-    <reapack name="acoustic_resonator" type="effect" desc="Acoustic Resonator (CURS)">
+    <reapack name="currenari_acoustic_resonator.jsfx" type="effect" desc="Acoustic Resonator (CURS)">
       <metadata>
         <description><![CDATA[Acoustic Resonator & Synthesizer]]></description>
         <link rel="website">https://currenari.com</link>
@@ -14,7 +14,7 @@
 - Mallet strike and bowed friction synthesis engine
 - Real-time Chladni dial and live spectrum display
 - True Peak limiter <= -3.0 dBFS]]></changelog>
-        <source main="true">https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/acoustic_resonator</source>
+        <source main="true">https://raw.githubusercontent.com/currenari-dev/CURS-jsfx/main/currenari_acoustic_resonator.jsfx</source>
       </version>
     </reapack>
   </category>
