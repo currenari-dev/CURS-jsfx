@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="CURS-jsfx" commit="main">
   <category name="Resonators">
-    <reapack name="currenari_acoustic_resonator.jsfx" type="effect" desc="Acoustic Resonator (CURS)">
+    <reapack name="currenari_acoustic_resonator.jsfx" type="effect" desc="Acoustic Resonator">
       <metadata>
         <description><![CDATA[Acoustic Resonator & Synthesizer]]></description>
         <link rel="website">https://currenari.com</link>
       </metadata>
       <version name="2.9.4" author="Currenari Sounds" time="2026-09-12T16:00:00Z">
-        <changelog><![CDATA[- Initial release of Acoustic Resonator (CURS)
+        <changelog><![CDATA[- Initial release of Acoustic Resonator
 - 8-mode calibrated modal bank
 - 17 acoustic materials and 16 presets
 - 16-tap Velvet Cloud diffuser

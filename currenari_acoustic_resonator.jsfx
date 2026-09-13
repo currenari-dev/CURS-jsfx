@@ -1,8 +1,8 @@
-desc: Acoustic Resonator (CURS)
+desc: Acoustic Resonator
 // @author Currenari Sounds
 // @version 2.9.4
 // @changelog
-//   - Initial release of Acoustic Resonator (CURS)
+//   - Initial release of Acoustic Resonator
 //   - 8-mode calibrated modal bank
 //   - 17 acoustic materials and 16 presets
 //   - 16-tap Velvet Cloud diffuser
@@ -12,7 +12,7 @@ desc: Acoustic Resonator (CURS)
 // @link Website https://currenari.com
 // @description Acoustic Resonator & Synthesizer
 // @about
-//   # Acoustic Resonator (CURS)
+//   # Acoustic Resonator
 //   Acoustic Resonator & Synthesizer by Currenari Sounds.
 //   
 //   Features 8-mode modal bank, 17 acoustic materials, 16 presets,
